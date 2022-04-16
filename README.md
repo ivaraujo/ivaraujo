@@ -13,10 +13,6 @@ Olá pessoal! Sou Ivan Viana, estudante de desenvolvimento de sofwtare
 <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 
 <img align="center" alt="Ivan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-
-
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<![alt](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg)>
 </div>
+
