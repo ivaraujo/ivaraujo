@@ -15,6 +15,7 @@ body{
     flex-direction: row-reverse;
     align-items: center;
     justify-content: right;
+    background-color: red;
 }
 .cabecalho-redes{
     display: flex;
