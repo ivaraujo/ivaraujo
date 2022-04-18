@@ -16,7 +16,6 @@ body{
     align-items: center;
     justify-content: right;
     padding-right: 50px;
-    text-decoration: none;
 }
 .cabecalho-redes{
     display: flex;
@@ -24,6 +23,7 @@ body{
 }
 .cabecalho-redes-item{
     padding: 10px;
+    color: black;
 }
 
 .conteudo{
