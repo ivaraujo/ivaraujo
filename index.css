@@ -20,7 +20,6 @@ body{
     flex-direction: row-reverse;
     align-items: center;
     justify-content: right;
-
 }
 .cabecalho-redes{
     display: flex;
@@ -28,4 +27,15 @@ body{
 }
 .cabecalho-redes-item{
     padding: 10px 3px;
+}
+
+
+
+
+
+.logo-rodape{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
 }
