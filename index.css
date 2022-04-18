@@ -47,6 +47,7 @@ body{
 .conteudo-dois-botao-esquerdo{
     border: 1px solid black;
     display: flex;
+    flex-direction: column;
     height: 130px;
     width: 250px;
     
