@@ -52,15 +52,21 @@ body{
 }
 .conteudo-dois-esquerdo{
     display: flex;
-    flex-direction: column;
-    
+    flex-direction: column;    
+}
+.conteudo-dois-esquerdo-botao{
+    height: 130px;
+    width: 250px;
 }
 .conteudo-dois-direito{
     display: flex;
     flex-direction: column;
     
 }
-
+.conteudo-dois-direito-botao{
+    height: 130px;
+    width: 250px;
+}
 
 
 
