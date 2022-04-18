@@ -39,6 +39,10 @@ body{
     
 }
 
+.conteudo-um-logo{
+    border-radius: 50%;
+}
+
 .conteudo-dois{    
     display: flex;
     align-items: center;
