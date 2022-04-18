@@ -59,7 +59,7 @@ body{
 .conteudo-dois-esquerdo-botao{
     height: 130px;
     width: 250px;
-    border-top: 1px solid rgba(85, 83, 83, 0.836);
+    border: 1px solid rgba(85, 83, 83, 0.836);
     border-radius: 10px;
 }
 .conteudo-dois-direito{
@@ -70,7 +70,7 @@ body{
 .conteudo-dois-direito-botao{
     height: 130px;
     width: 250px;
-    border-top: 1px solid rgba(85, 83, 83, 0.836);
+    border: 1px solid rgba(85, 83, 83, 0.836);
     border-radius: 10px;
 }
 
