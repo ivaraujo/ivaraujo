@@ -42,7 +42,6 @@ body{
     align-items: center;
     flex-direction: row;
     justify-content: center;
-    flex-wrap: wrap;
     
 }
 .conteudo-dois-botao-esquerdo{
@@ -55,8 +54,7 @@ body{
 }
 .conteudo-dois-botao-direito{
     border: 1px solid black;
-    display: flex;
-    flex-direction: column;
+    display: block;
     height: 130px;
     width: 250px;
     
