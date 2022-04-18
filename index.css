@@ -19,6 +19,6 @@ body{
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
-    gap: 10px;
+    justify-content: flex-end;
 
 }
