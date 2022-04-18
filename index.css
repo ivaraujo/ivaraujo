@@ -33,7 +33,7 @@ body{
 
 
 
-.logo-rodape{
+.rodape{
     display: flex;
     flex-direction: row;
     align-items: center;
