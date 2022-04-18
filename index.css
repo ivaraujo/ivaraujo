@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
 }
 
 header{
@@ -9,4 +11,9 @@ header{
     align-items: center;
     text-align: end;
     padding: 10px;
+}
+
+body{
+    font-size: 100%;
+    background-color: white;
 }
