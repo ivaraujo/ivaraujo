@@ -26,3 +26,6 @@ body{
     display: flex;
     gap: 15px;
 }
+.cabecalho-redes-item{
+    padding: 10px;
+}
