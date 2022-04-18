@@ -5,6 +5,6 @@
 
 header{
     background-color: red;
-    display: flexbox;
+    display: flex;
     align-items: center;
 }
