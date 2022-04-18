@@ -7,13 +7,17 @@
 
 header{
     background-color: red;
-    display: flexbox;
-    align-items: center;
-    text-align: end;
-    padding: 10px;
+    
 }
 
 body{
     font-size: 100%;
     background-color: white;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row-reverse;
+    
+
 }
