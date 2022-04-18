@@ -39,12 +39,12 @@ body{
 
 .conteudo-dois{    
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-around;
     
 }
-.conteudo-dois-botao{
+.conteudo-dois-botao-esquerdo{
     border: 1px solid black;
     display: flex;
     height: 130px;
