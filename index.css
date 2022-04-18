@@ -54,6 +54,7 @@ body{
 .conteudo-dois-esquerdo{
     display: flex;
     flex-direction: column; 
+    gap: 10px;
        
 }
 .conteudo-dois-esquerdo-botao{
@@ -64,7 +65,7 @@ body{
 .conteudo-dois-direito{
     display: flex;
     flex-direction: column;
-    
+    gap: 10px;
 }
 .conteudo-dois-direito-botao{
     height: 130px;
