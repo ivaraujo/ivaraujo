@@ -20,6 +20,9 @@ body{
     flex-direction: row-reverse;
     align-items: center;
     justify-content: right;
-    padding: 20px;
 
+}
+.cabecalho-redes{
+    display: flex;
+    gap: 30px;
 }
