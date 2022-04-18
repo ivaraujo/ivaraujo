@@ -23,6 +23,7 @@ body{
 }
 .cabecalho-redes-item{
     padding: 10px;
+    text-decoration: none;
 }
 
 .conteudo{
