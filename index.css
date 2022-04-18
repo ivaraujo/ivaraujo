@@ -54,7 +54,8 @@ body{
 }
 .conteudo-dois-botao-direito{
     border: 1px solid black;
-    display: block;
+    display: flex;
+    flex-direction: column;
     height: 130px;
     width: 250px;
     
