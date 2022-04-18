@@ -50,20 +50,14 @@ body{
     justify-content: center;
     
 }
-.conteudo-dois-botao-esquerdo{
-    border: 1px solid black;
+.conteudo-dois-esquerdo{
     display: flex;
     flex-direction: column;
-    height: 130px;
-    width: 250px;
     
 }
-.conteudo-dois-botao-direito{
-    border: 1px solid black;
+.conteudo-dois-direito{
     display: flex;
     flex-direction: column;
-    height: 130px;
-    width: 250px;
     
 }
 
