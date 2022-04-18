@@ -20,5 +20,6 @@ body{
     flex-direction: row-reverse;
     align-items: center;
     justify-content: right;
+    padding: 10px;
 
 }
