@@ -20,10 +20,10 @@ body{
 .cabecalho-redes{
     display: flex;
     gap: 15px;
+    text-decoration: none;
 }
 .cabecalho-redes-item{
     padding: 10px;
-    text-decoration: none;
 }
 
 .conteudo{
