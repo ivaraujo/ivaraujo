@@ -7,4 +7,5 @@ header{
     background-color: red;
     display: flexbox;
     align-items: center;
+    text-align: end;
 }
