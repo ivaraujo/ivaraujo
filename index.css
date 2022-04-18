@@ -8,4 +8,5 @@ header{
     display: flexbox;
     align-items: center;
     text-align: end;
+    padding: 10px;
 }
