@@ -45,9 +45,7 @@ body{
 
 .conteudo-dois{    
     display: flex;
-    align-items: center;
-    flex-direction: row;
-    justify-content: center;
+    
     
 }
 .conteudo-dois-botao-esquerdo{
