@@ -67,6 +67,7 @@ body{
     border-radius: 10px;
     padding: 10px;
     color: black;
+    box-shadow: 1px black;
 }
 .conteudo-dois-esquerdo-botao:hover{
     height: 130px;
