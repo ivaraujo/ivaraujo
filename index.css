@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2? family= Teko:wght@500 & family= Ubuntu:wght@300 & display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -80,16 +82,18 @@ body{
     color: black;
 }
 .conteudo-dois-esquerdo-botao-titulo{
-
+    font-family: 'Teko', sans-serif;
 }
 .conteudo-dois-esquerdo-botao-texto{
+    font-family: 'Ubuntu', sans-serif;
     padding-top: 5px;
 }
 .conteudo-dois-direito-botao-titulo{
-
+    font-family: 'Teko', sans-serif;
 }
 .conteudo-dois-direito-botao-texto{
     padding-top: 5px;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 
