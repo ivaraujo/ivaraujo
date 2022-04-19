@@ -64,6 +64,7 @@ body{
     border: 1px solid rgba(85, 83, 83, 0.623);
     border-radius: 10px;
     padding: 5px;
+    color: black;
 }
 .conteudo-dois-direito{
     display: flex;
@@ -75,6 +76,8 @@ body{
     width: 250px;
     border: 1px solid rgba(85, 83, 83, 0.623);
     border-radius: 10px;
+    padding: 5px;
+    color: black;
 }
 
 
