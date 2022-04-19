@@ -62,7 +62,7 @@ body{
 }
 .conteudo-dois-esquerdo-botao{
     height: 130px;
-    width: 350px;
+    width: 300px;
     border: 1px solid rgba(85, 83, 83, 0.623);
     border-radius: 10px;
     padding: 10px;
@@ -70,7 +70,7 @@ body{
 }
 .conteudo-dois-esquerdo-botao:hover{
     height: 130px;
-    width: 350px;
+    width: 300px;
     border: 1px solid white;
     border-radius: 10px;
     padding: 10px;
@@ -85,7 +85,7 @@ body{
 }
 .conteudo-dois-direito-botao{
     height: 130px;
-    width: 350px;
+    width: 300px;
     border: 1px solid rgba(85, 83, 83, 0.623);
     border-radius: 10px;
     padding: 10px;
@@ -93,7 +93,7 @@ body{
 }
 .conteudo-dois-direito-botao:hover{
     height: 130px;
-    width: 350px;
+    width: 300px;
     border: 1px solid white;
     border-radius: 10px;
     padding: 10px;
