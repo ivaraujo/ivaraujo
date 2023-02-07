@@ -1,4 +1,4 @@
-Olá pessoal! Sou Ivan Viana, Desenvolvedor de softwares
+Olá pessoal! Sou Ivan Viana, formado em Analise de Sistemas. Durante alguns anos trabalhei com suporte de TI, mas agora estou me dedicando ao desenvolvimento de software em sistemas Web.
 ##
 <div align="center">
   <a href="https://github.com/ivaraujo">
