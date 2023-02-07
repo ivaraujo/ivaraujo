@@ -1,4 +1,4 @@
-Olá pessoal! Sou Ivan Viana, estudante de desenvolvimento de sofwtare
+Olá pessoal! Sou Ivan Viana, Desenvolvedor de softwares
 ##
 <div align="center">
   <a href="https://github.com/ivaraujo">
